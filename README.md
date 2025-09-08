@@ -61,6 +61,6 @@ We analyze historical trading data from Hyperliquid and combine it with the **Fe
 ---
 
 ## ✉️ Submission
-Prepared by **Mohammad Asif Kalburgi**  
+Prepared by **Bazreen Bagali**  
 - GitHub: *[Your GitHub Link]*  
 - LinkedIn: *[Your LinkedIn Link]*  
