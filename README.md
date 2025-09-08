@@ -62,5 +62,5 @@ We analyze historical trading data from Hyperliquid and combine it with the **Fe
 
 ## ✉️ Submission
 Prepared by **Bazreen Bagali**  
-- GitHub: *[Your GitHub Link]*  
-- LinkedIn: *[Your LinkedIn Link]*  
+- GitHub: *[Your GitHub Link - https://github.com/Bazreen]*  
+- LinkedIn: *[Your LinkedIn Link - https://www.linkedin.com/in/bazreen-bagali-b5146421a/]*  
